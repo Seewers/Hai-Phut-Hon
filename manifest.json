@@ -1,0 +1,16 @@
+{
+	"manifest_version": 2,
+	"name": "Hai Phut Hon by Seewers Mazine",
+	"description": "Tin tin tin tin tin tin the code is : Tinphuu",
+	"version": "1.0",
+	"background": {
+		"scripts": ["js/main.js"]
+	},
+	"omnibox": {
+		"keyword": "Tinphuu"
+	},
+	"browser_action": {
+		"default_icon": "ezgif-6-708f977802eb.png",
+		"default_popup": "index.html"
+	}
+}
